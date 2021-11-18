@@ -1,8 +1,19 @@
-### 👋 hi, im woosh.
-
-<img src="https://komarev.com/ghpvc/?username=LetMeWoosh&color=grey" alt="sex view count" />
-
-[![discord](https://discord-prof.herokuapp.com/banner/319132815016984577.png)](https://discord.com/users/319132815016984577)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=LetMeWoosh&show_icons=true&theme=nord)](https://github.com/LetMeWoosh)
-[![trophies](https://github-profile-trophy.vercel.app/?username=LetMeWoosh&theme=nord&margin-w=15&margin-h=1&column=6)](https://github.com/LetMeWoosh)
+<p align="center">  
+<img src="https://i.vgy.me/Cfl3Vp.png">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=LetMeWoosh&color=000000">
+</p>
+<p align="center">
+python & html developer.
+<p align="center"> 
+   ﹒
+    <a href="https://discord.gg/yawn">discord</a>
+   ﹒
+    <a href="https://t.me/zerokeys">telegram</a>
+   ﹒
+    <a href="https://www.letmewoosh.xyz/">website</a>
+   ﹒
+    <a href="https://www.awarity.fun/">discord tool</a>
+   ﹒
+</p>
+<p align="center">awarity on top</p>
