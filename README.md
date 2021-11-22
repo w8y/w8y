@@ -7,7 +7,7 @@
 python & html developer.
 <p align="center"> 
    ﹒
-    <a href="https://discord.gg/yawn">discord</a>
+    <a href="https://discord.gg/brb">discord</a>
    ﹒
     <a href="https://t.me/zerokeys">telegram</a>
    ﹒
