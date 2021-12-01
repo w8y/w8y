@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmewoosh&label=Views&color=030000&style=flat-square" alt="letmewoosh" /> </p>
 
 
-- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=%F0%9F%94%AD+I'm+currently+working+on+Awarity+)" alt="letmewoosh" />
-
 - 🌱 I’m currently learning **how to create an API (using express + postman)**
 
 - 🤝 I’m looking for help with [Awarity](https://awarity.fun)
