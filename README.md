@@ -1,4 +1,4 @@
-<h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Woosh)](https://git.io/typing-svg)</h1>
+<h1> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Woosh" alt="Typing SVG" /> </h1>
 <h2 align="center">A passionate developer from the United Kingdom</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmewoosh&label=Views&color=030000&style=flat-square" alt="letmewoosh" /> </p>
