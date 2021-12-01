@@ -1,10 +1,6 @@
 <h1> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Woosh;A+passionate+developer+from+the+United+Kingdom" alt="Typing SVG" /> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmewoosh&label=Views&color=green&style=flat-square" alt="letmewoosh" /> </p>
-<p align="left"> <img src="https://badges.pufler.dev/years/letmewoosh" alt="letmewoosh" /> </p>
-<p align="left"> <img src="https://badges.pufler.dev/repos/letmewoosh" alt="letmewoosh" /> </p>
-
-
 
 - 🌱 I’m currently learning **how to create an API (using express + postman)**
 
