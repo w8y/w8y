@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmewoosh&label=Views&color=030000&style=flat-square" alt="letmewoosh" /> </p>
 
 
-- 🔭 I’m currently working on [Awarity](https://awarity.fun)
+- 🔭 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=I'm+currently+working+on+Awarity+(awarity.fun)" alt="letmewoosh" /> I’m currently working on [Awarity](https://awarity.fun)
 
 - 🌱 I’m currently learning **how to create an API (using express + postman)**
 
