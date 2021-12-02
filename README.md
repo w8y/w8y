@@ -17,18 +17,11 @@ I also spend time creating unique code.
 
 **Frontend**
 <a href="#"><img alt="react" align="center" src="https://img.shields.io/badge/-React%20+%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
-<a href="#"><img alt="vercel" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a> \
-<a href="#"><img alt="vue" align="center" src="https://img.shields.io/badge/-Vue.js-42B983?style=flat-square&logo=vue.js&logoColor=white"></a>
+<a href="#"><img alt="vercel" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a>
 
 **Backend**
-<a href="#"><img alt="supabase" align="center" src="https://img.shields.io/badge/-Supabase-3ECE8E?style=flat-square&logo=supabase&logoColor=white"></a>
-<a href="#"><img alt="postgresql" align="center" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a> \
 <a href="#"><img alt="express" align="center" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"></a>
-<a href="#"><img alt="mongodb" align="center" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white"></a>
 
 **Other Tech**
-<a href="#"><img alt="typescript" align="center" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="javascript" align="center" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white"></a> \
-<a href="#"><img alt="java" align="center" src="https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white"></a>
+<a href="#"><img alt="javascript" align="center" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white"></a>
 <a href="#"><img alt="node.js" align="center" src="https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="deno" align="center" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white"></a> -->
