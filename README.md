@@ -9,7 +9,7 @@ I'm a 13-year-old bad developer.
 I also spend time creating unique code.
 
 **Current Projects** \
-<a href="https://github.com/AwarityxD" target="_blank">Awarity</a> Secret stuff 👀
+<a href="https://github.com/AwarityxD" target="_blank">Awarity</a>
 
 <a href="https://letmewoosh.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://twitter.com/LetMeWoosh" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
