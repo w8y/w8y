@@ -14,14 +14,3 @@ I also spend time creating unique code.
 <a href="https://letmewoosh.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://twitter.com/LetMeWoosh" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="mailto://woosh@catkiss.me"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a>
-
-**Frontend**
-<a href="#"><img alt="react" align="center" src="https://img.shields.io/badge/-React%20+%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
-<a href="#"><img alt="vercel" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a>
-
-**Backend**
-<a href="#"><img alt="express" align="center" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"></a>
-
-**Other Tech**
-<a href="#"><img alt="javascript" align="center" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white"></a>
-<a href="#"><img alt="node.js" align="center" src="https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&logoColor=white"></a>
