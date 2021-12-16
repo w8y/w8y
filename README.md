@@ -1,10 +1,11 @@
-<a href="https://discord.com/users/319132815016984577" target="_blank">
+<a href="https://discord.com/users/622757533303701515" target="_blank">
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/319132815016984577?bg=161B22&borderRadius=5px">
 </a>
 <img width="50%" align="left" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FLetMeWoosh&bgLeft=161B22&bgRight=161B22" />
 
 ### Hello, I'm Woosh 👋
 I'm a 13-year-old bad developer.
+Old discord acc got termed
 
 I also spend time creating unique code.
 
