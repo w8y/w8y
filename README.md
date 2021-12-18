@@ -4,7 +4,6 @@
 <img width="50%" align="left" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FLetMeWoosh&bgLeft=161B22&bgRight=161B22" />
 
 ### Hello, I'm Woosh 👋
-# mfa.Qo1GPajzouJsbonnn2TKlpoQUlmiBp7kkaOX_h-G_hHBGL2rtHUqiGXOSz-ErF5g5tfZXYtszW-togxZOXOO
 I'm a 13-year-old bad developer.
 
 I also spend time creating unique code.
