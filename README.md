@@ -8,8 +8,7 @@ I'm a 13-year-old bad developer.
 
 I also spend time creating unique code.
 
-**Discord is shit, got termed again** \
-<a href="https://t.me/LetMeWoosh" target="_blank">Telegram</a>
+<a href="https://t.me/catkissing" target="_blank">Telegram</a>
 
 
 <a href="https://letmewoosh.xyz" target="_blank"><img alt="t" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
