@@ -6,8 +6,6 @@
 ### Hello, I'm Woosh 👋
 I'm a 13-year-old developer.
 
-<a href="https://t.me/catkissing" target="_blank">Telegram</a>
-
 
 <a href="https://letmewoosh.xyz" target="_blank"><img alt="t" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://twitter.com/LetMeWoosh" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
