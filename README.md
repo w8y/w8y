@@ -10,6 +10,6 @@ https://woosh.tech
 
 <p align="center">
   
-<img height= "230" src="https://lanyard.cnrad.dev/api/359324997707366402?idleMessage=submissive%20and%20breedable%20:3&animated=true" />
+<img height= "230" src="https://lanyard.cnrad.dev/api/150437080286232578?idleMessage=submissive%20and%20breedable%20:3&animated=true" />
 
 </p>
