@@ -6,6 +6,6 @@ https://woosh.tech
 
 <p align="center">
   
-<img height= "230" src="https://lanyard.cnrad.dev/api/150437080286232578&animated=true" />
+<img height= "230" src="https://lanyard.cnrad.dev/api/150437080286232578?&animated=true" />
 
 </p>
