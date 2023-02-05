@@ -1,6 +1,5 @@
 <pre align="center">
-i code a bit of python
-my interests are abusing the fuck out of random shit lmao
+insane trollery
 https://woosh.tech
 </pre>
 
