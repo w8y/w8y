@@ -1,5 +1,5 @@
 <p align="center">
-<img height= "230" src="https://lanyard.cnrad.dev/api/359324997707366402?animated=true&hideBadges=true&hideTimestamp=true&borderRadius=5px" />
+<img height= "230" src="https://lanyard.woosh.wtf/api/359324997707366402" />
 </p>
 
 <pre align="center">
